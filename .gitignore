@@ -3,6 +3,7 @@ node_modules
 /dist
 /dev
 .cache
+.idea
 
 # Editor directories and files
 .vscode
