@@ -1,0 +1,28 @@
+{
+  "name": "KaiOS Modern ThreeJS Typescript Webpack Babel Template",
+   "version": "1.0.0",
+  "description": "KaiOS Modern ThreeJS Typescript Webpack Babel Template",
+  "subtitle": "KaiOS Modern ThreeJS Typescript Webpack Babel Template",
+  "launch_path": "/index.html",
+  "origin": "app://KaiOSTemplate",
+  "icons": {
+    "56": "/icons/kai_56.png",
+    "112": "/icons/kai_112.png"
+  },
+  "theme_color": "#65ACFF",
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "type": "web",
+  "fullscreen": "true",
+  "locales": {
+    "en-US": {
+      "name": "KaiOS Modern ThreeJS Typescript Webpack Babel Template",
+      "description": "KaiOS Modern ThreeJS Typescript Webpack Babel Template",
+      "subtitle": "KaiOS Modern ThreeJS Typescript Webpack Babel Template"
+    }
+  },
+  "default_locale": "en-US",
+  "orientation": [ "portrait-primary" ]
+}
